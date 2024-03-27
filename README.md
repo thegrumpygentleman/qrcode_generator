@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 4. Run the application:
 
-python qrcode_generator.py
+python qrgenerator.py
 
 
 5. Enter text or data in the input field and click on "Generate QR Code" button to generate the QR code.
